@@ -1,0 +1,24 @@
+Index: ingredients.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\nfew onions\n\n5 potatoes\n\ncoriander\n\n\n3 tsp salt\n\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/ingredients.md b/ingredients.md
+--- a/ingredients.md	(revision 3ef689af1a6eba3f0a8daa41b20134c6f12f4552)
++++ b/ingredients.md	(date 1769686422285)
+@@ -1,10 +1,8 @@
+ 
+-few onions
++a bag of onions
+ 
+ 5 potatoes
+ 
+ coriander
+ 
+-
+-3 tsp salt
+-
++3 tsp salt
+\ No newline at end of file
