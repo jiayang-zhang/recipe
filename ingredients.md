@@ -1,6 +1,6 @@
 
 onion
 
-potatoes
+5 potatoes
 
 coriander
